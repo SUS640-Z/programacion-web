@@ -54,7 +54,7 @@ const estudiante = {
 
 <div align="center">
 
-![Motivacion Video](.//act-3-markdown/hajime-no-ippo.gifa)
+![Motivacion Video](./hajime-no-ippo.gif)
 
 ### *"Si no te esfuerzas hasta el máximo, ¿cómo sabrás dónde está tu límite?"*
 
