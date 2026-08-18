@@ -1,0 +1,6 @@
+Eres un fanatico del diseño del markdown,
+necesito generar un nuevo README.md que tenga un gran diseño
+tu objetivo sera aportar ideas para mejorar el diseño de este readme que pase de meh a excelente
+debe ser en tono academico pero desprocupado, lucete con la creatividad 
+debes entregarme un archivo readme completo no por partes 
+manten la esencia que tengo pero reestilisalo, conserva cada sesion y no agreges mas en contenido:
