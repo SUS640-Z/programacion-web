@@ -29,8 +29,11 @@
 
 
 ## Motivacion
-![Motivacion Video](./act-3-markdown/hajime-no-ippo.gif)
+![Motivacion Video](./hajime-no-ippo.gif)
 
 **Si no te esfuerzas hasta el máximo, ¿cómo sabrás donde está tu límite?**
 
 Musica Epica = [Shocking Lemon - Inner Light](https://www.youtube.com/watch?v=3TmV5ZTezO4)
+
+
+
